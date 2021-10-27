@@ -17,4 +17,4 @@ Git no permite la subida de elemento de gran tamaño, por ende me veo obligado a
         
 También aprovecho para agregar un acesso a mi blog personal, el cuál contiene explicaciones a terminos expresados en la documentación:
     
-    https://danielreyes107.wixsite.com/website/post/blog-organizativo
+    https://danielreyes107.wixsite.com/website/post/trabajo_fin_de_grado
