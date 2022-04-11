@@ -15,7 +15,7 @@
         https://colab.research.google.com/drive/1fRIPT1lGTugYf_Xc5CJQK1dseCIRkxHt?usp=sharing
         
 *   MiraiTC (Web application)
-    ![](https://github.com/danielreyes9756/TFG/edit/master/MiraTC.mp4)
+    ![](https://raw.githubusercontent.com/danielreyes9756/TFG/master/MiraiTC.mp4)
 
 *   Blog personal
     
