@@ -15,7 +15,8 @@
         https://colab.research.google.com/drive/1fRIPT1lGTugYf_Xc5CJQK1dseCIRkxHt?usp=sharing
         
 *   MiraiTC (Web application)
-        ![](TFG/MiraTC.mp4)
-También aprovecho para agregar un acesso a mi blog personal, el cuál contiene explicaciones a terminos expresados en la documentación:
+    ![](TFG/MiraTC.mp4)
+
+*   Blog personal
     
-    https://danielreyes107.wixsite.com/website/post/trabajo_fin_de_grado
+        https://danielreyes107.wixsite.com/website/post/trabajo_fin_de_grado
