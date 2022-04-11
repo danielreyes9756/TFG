@@ -15,7 +15,7 @@
         https://colab.research.google.com/drive/1fRIPT1lGTugYf_Xc5CJQK1dseCIRkxHt?usp=sharing
         
 *   MiraiTC (Web application)
-    ![](TFG/MiraTC.mp4)
+    ![](MiraTC.mp4)
 
 *   Blog personal
     
