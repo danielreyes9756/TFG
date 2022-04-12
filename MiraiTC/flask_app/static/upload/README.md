@@ -1,3 +1,5 @@
-En este archivo se volcaran las imagenes.
+Español (Spanish):
+* En este archivo se volcaran las imagenes.
 
-Images should be dump here.
+English (Ingles):
+* Images should be dump here.
