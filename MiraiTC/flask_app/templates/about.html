@@ -1,0 +1,26 @@
+{% extends 'index.html' %}
+
+{% block body %}
+
+<div class="container" id="myrow" >
+    <div class="row">
+        <div style="text-align: center; width: 100%;"> 
+            <h2>Welcome to MIRaiTC</h2>
+            <h2>(Magnetic Image Resonance Artificial Inteligence Tumor Classificator)</h2>
+            <strong>This Flask web is developed by Daniel Reyes García and contains a Deep Learning Model created in Python</strong>
+            <h4>To use this website you press browser and and choose an image with the following characteristics:</h4>
+        </div>
+        <div>
+            <ul>
+                <li>
+                    Extension: (.jpg, .png, .jpeg)
+                </li>
+                <li>
+                    rgb images (required: brain tumor type Glioma, Meningioma or Pituitary or a healthy brain)  
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+{% endblock  %}

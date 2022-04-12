@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>MIRAITC</title>
+        <!-- Bootstrap 4 -->
+        <link rel="stylesheet" href="/static/css/bootstrap.css">
+        <link rel="stylesheet" href="/static/css/own.css"/>
+        <script src="/static/js/bootstrap.js"></script>
+        <script src="/static/js/bootstrap.bundle.js"></script>
+        <script src="/static/js/jquery-3.5.1.js"></script>
+    </head>
+    <body>
+        <!--Navigation-->
+        <nav class="navbar navbar-expand-lg navbar-dark" style="background-color:#343a40;">
+            <a class="navbar-brand" href="/">MIRAITC</a>
+            <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+              <div class="navbar-nav">
+                <a class="nav-item nav-link" href="/">Home</a>
+                <a class="nav-item nav-link" href="/about">About</a>
+              </div>
+            </div>
+          </nav>
+        <br><br>
+        <div style="text-align: center;"><h1>Tumor Classification App Created By Daniel Reyes García</h1></div>
+        <br>
+        <!--Upload/About-->
+        {% block body %}
+        {% endblock  %}
+    </body>
+</html>
