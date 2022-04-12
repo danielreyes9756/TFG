@@ -1,0 +1,11 @@
+#myrow{
+    background-color:#EBEDEF;
+}
+#myrow_result{
+    background-color:#EBEDEF;
+    padding: 5%;
+    align-content: center;
+}
+table, th, td{
+    border: 1px solid black;
+}
